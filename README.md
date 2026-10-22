@@ -99,7 +99,6 @@ OTT-Platform-Analytics/
     └── Watch_Activity.csv
 ```
 
-*Update the filenames to match your actual files. Include only files that are available and permitted to share.*
 
 ## 🚀 How to Use
 
