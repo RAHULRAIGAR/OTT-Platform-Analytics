@@ -43,7 +43,7 @@ The dashboard includes KPI cards for:
 - **Content Completions**
 - **Revenue (INR)**
 
-The displayed KPI values depend on the loaded dataset and active report filters.
+
 
 ## 📈 Dashboard Visualizations
 
